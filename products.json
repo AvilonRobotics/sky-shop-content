@@ -1,0 +1,27 @@
+{
+  "description": "This json is configuration file for our product options"
+  "tags": [
+    "New Product",
+    "Recommended"
+  ],
+  "categories": [
+    "Fresh",
+    "Frozen",
+    "Vegan & Vegetarian",
+    "Meat",
+    "Ice Cream",
+    "Seafood",
+    "Sausage",
+    "French Fries",
+    "Chips & Potatoes",
+    "Fruit",
+    "Frozen Fruit",
+    "Frozen Meal",
+    "Beans & Peas",
+    "Desserts",
+    "Pies",
+    "Import",
+    "Frozen Meal",
+    "Ready Meals"
+  ]
+}
